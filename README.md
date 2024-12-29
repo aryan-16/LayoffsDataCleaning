@@ -80,6 +80,6 @@ Contributions and suggestions are welcome! If you'd like to collaborate or provi
 
 ---
 
-## 📜 License
+## 📜 Credits
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Would like to thank AlexTheAnalyst for the amazing tutorial.
