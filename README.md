@@ -16,7 +16,7 @@ This project involves cleaning a **Layoffs Dataset** using **SQL** to make it su
 ## 🗂️ Dataset Overview
 
 ### **Dataset Name**: Layoffs  
-- **Source**: [Mention the source, if applicable]  
+- **Source**: layoffs.csv file
 - **Initial Issues**:
   - Missing values in key columns.
   - Inconsistent date formats.
